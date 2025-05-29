@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to use github
 - 👯 I’m looking to collaborate on learning github
 - 🤔 I’m looking for help with github
-- i use cursor to change the first branch.
-test agein
